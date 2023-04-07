@@ -1,0 +1,43 @@
+create array of rooms
+create array of suspects
+
+get solution
+
+put murdered, in murder room, with murder weapon ( from solution )
+
+for loop ( 0 to number of suspects )
+{
+    placeSuspect(int)
+}
+
+for loop ( 0 to number of weapons )
+{
+    placeWeapon(int)
+}  
+
+
+
+
+
+public int placeSuspect(int index)
+{
+	Suspect = Solution.Suspect.values[]ordinalvalue(index)
+		if Solution.Suspect.values[]ordinalvalue(index) = murderer
+		   lie(index)
+	randomize a number 0-room numbers
+		  if random number = murder room number
+		     placeSuspect(index)
+        place suspect in randomed room
+
+}
+
+public lie(int index)
+{
+	Suspectarr[index].bsAlibi = 
+}
+public int placeWeapon(int index)
+{
+
+See Above
+
+} 

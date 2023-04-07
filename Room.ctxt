@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Room()
+comment1.params=args
+comment1.target=void\ main(String[])
+comment10.target=String[]\ searchWeapons()
+comment11.target=String[]\ searchSuspects()
+comment12.target=void\ print()
+comment13.target=void\ test()
+comment2.target=void\ init()
+comment3.params=suspectName
+comment3.target=void\ addSuspect(Solution.Suspect)
+comment4.params=weaponName
+comment4.target=void\ addWeapon(Solution.Weapon)
+comment5.params=roomName
+comment5.target=void\ setRoom(Solution.Room)
+comment6.params=suspect_looked_for
+comment6.target=void\ searchPerson(Solution.Suspect)
+comment7.params=weapon_looked_for
+comment7.target=void\ searchWeapon(Solution.Weapon)
+comment8.params=roomName
+comment8.target=void\ checkRoom(Solution.Room)
+comment9.target=void\ search()
+numComments=14
